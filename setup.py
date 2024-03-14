@@ -21,7 +21,6 @@ setup(
     install_requires=[
         'aiohttp',
         'requests',
-        'hashlib',
         'hmac'
     ],
     classifiers=[
