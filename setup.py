@@ -20,8 +20,7 @@ setup(
     keywords=['plisio', 'crypto payment', 'sdk', 'bitcoin', 'etherium', 'crypto', 'blockchain'],
     install_requires=[
         'aiohttp',
-        'requests',
-        'hmac'
+        'requests'
     ],
     classifiers=[
         'Development Status :: 5 - Production/Stable',
